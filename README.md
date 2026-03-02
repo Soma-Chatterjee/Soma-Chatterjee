@@ -1,186 +1,155 @@
-<!-- ================= AI + CYBER HYBRID FUTURISTIC README ================= -->
+<!-- ============================= -->
+<!--        HEADER SECTION        -->
+<!-- ============================= -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=850&lines=Soma+Chatterjee;AI+%2B+Cybersecurity+Engineer;Secure+Systems+Architect+in+Progress;Building+Intelligent+%26+Defensive+Technologies" />
+  <span style="color:#00ff88;">Soma Chatterjee</span>
 </h1>
 
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:001F2F&height=2&section=header"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Cybersecurity+Engineer;Secure+Backend+Architect;AI-Integrated+Systems+Designing" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/soma-chatterjee-5a31662a6" target="_blank">
+    LinkedIn
+  </a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="mailto:somac1231@gmail.com">
+    somac1231@gmail.com
+  </a>
 </p>
 
 ---
 
-# 👩‍💻 PROFILE
+## About Me
 
-```yaml
-Name: Soma Chatterjee
-Degree: B.Tech Computer Science Engineering
-Specialization: Cybersecurity & Digital Forensics
-Focus: Secure Backend Systems + AI-driven Security
-Career Goal: Cybersecurity Engineer | Secure Software Developer | AI Security Analyst
-Location: India
-```
+I am a Computer Science Engineer specializing in **Cybersecurity and Forensics**, focused on building secure, scalable, and intelligent systems.
 
-I design and build **secure, scalable, and intelligent systems**.
+My work intersects:
 
-My focus lies at the intersection of:
+- Secure Backend Engineering
+- Applied Cryptography
+- AI-integrated Applications
+- Threat-aware System Design
+- Security-first Software Architecture
 
-- 🔐 Cybersecurity Engineering  
-- 🤖 Artificial Intelligence  
-- 🏗️ Secure Backend Architecture  
-- 🛡️ Cryptographic Implementations  
-
-I approach software not just as a developer — but as a **security-first systems thinker**.
+I am actively seeking opportunities in:
+- Cybersecurity Engineering
+- Secure Product Development
+- Research & Security Innovation
+- AI-driven Security Systems
 
 ---
 
-# 🚀 VALUE PROPOSITION (For Recruiters)
+## Technical Stack
 
-✔ Strong foundation in **Data Structures, Algorithms & System Design**  
-✔ Hands-on experience building **secure file encryption systems (AES, PBKDF2)**  
-✔ Backend development using **Spring Boot with JWT Authentication & RBAC**  
-✔ Experience integrating **Machine Learning models into real-world workflows**  
-✔ Understanding of **database security, authentication flows & API validation**  
-✔ Clean, maintainable, production-oriented coding style  
+### Core Programming
 
-I build systems that are:
-
-> Secure by Design  
-> Intelligent by Architecture  
-> Scalable by Engineering  
-
----
-
-# ⚙️ TECH STACK
-
-## 👨‍💻 Languages
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,ts" />
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,ts,bash" />
 </p>
 
----
-
-## 🔐 Cybersecurity & Cryptography
-
-- AES-256 Encryption
-- PBKDF2 Key Derivation
-- Secure File Vault Implementation
-- Hashing & Integrity Verification
-- Secure Authentication Flows
-- Role-Based Access Control (RBAC)
+Java • Python • C • C++ • JavaScript • TypeScript • Bash
 
 ---
 
-## 🌐 Backend & Full Stack Engineering
+### Backend & API Engineering
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,react,nodejs,bootstrap,html,css" />
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,react" />
 </p>
 
-- Spring Boot REST APIs  
-- JWT-based authentication systems  
-- Secure session management  
-- API validation & error handling  
-- Clean architecture layering  
-- Frontend-Backend integration  
+Spring Boot • RESTful APIs • Microservice Architecture • JWT Authentication • RBAC • Secure Session Management • API Hardening
 
 ---
 
-## 🗄️ Databases
+### Cybersecurity & Systems Engineering
 
-<p align="center">
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,kali,git,github" />
+</p>
+
+Cryptography (AES, RSA, PBKDF2)  
+Secure File Encryption Systems  
+Input Validation & Secure Coding Practices  
+Authentication & Authorization Architecture  
+Linux Hardening & CLI Operations  
+Basic Network Security & Protocol Analysis  
+
+---
+
+### Databases & Storage
+
+<p>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
 </p>
 
-- SQL schema design  
-- Query optimization  
-- Secure storage handling  
-- Data normalization  
+MySQL • PostgreSQL • MongoDB  
+Normalization • Indexing • Query Optimization • Secure Data Handling
 
 ---
 
-## 🤖 Artificial Intelligence
+### AI & Machine Learning
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow" />
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn" />
 </p>
 
-- Regression & classification models  
-- Performance metrics (MAE, MSE, RMSE, R²)  
-- AI-based analysis integration  
-- Model evaluation & interpretation  
+Model Evaluation Metrics  
+Supervised Learning  
+Data Preprocessing Pipelines  
+AI-driven Application Logic  
 
 ---
 
-# 🧠 CORE INTEREST AREAS
+### Dev & Deployment Environment
 
-- AI-powered Cybersecurity Systems  
-- Intelligent Threat Detection  
-- Secure Backend Architecture  
-- Cryptography & Applied Security  
-- System Reliability & Performance  
-
----
-
-# 📊 GITHUB ANALYTICS
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Soma-Chatterjee&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Soma-Chatterjee&theme=tokyonight&hide_border=true" height="170"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,postman,vscode,idea" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soma-Chatterjee&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</p>
+Docker (Container Basics)  
+Version Control (Git Workflows)  
+Postman API Testing  
+Secure Deployment Practices  
 
 ---
 
-# 🎯 CURRENT OBJECTIVE
+## Engineering Focus
 
-Actively seeking:
-
-- Cybersecurity Engineering Internships  
-- Backend Developer Roles  
-- AI + Security Research Internships  
-- Entry-level Security Analyst Roles  
-
-I am particularly interested in roles where I can contribute to:
-
-- Secure system design  
-- AI-enhanced defensive mechanisms  
-- Scalable backend infrastructures  
+- Security-first Backend Architecture  
+- Cryptographic Implementation in Applications  
+- Secure Authentication & Authorization Systems  
+- AI-enhanced System Design  
+- Modular, Scalable Backend Development  
 
 ---
 
-# 🤝 LET’S CONNECT
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/soma-chatterjee-5a31662a6">
-    <img src="https://img.shields.io/badge/LinkedIn-00F5FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
-  </a>
-  <a href="https://www.instagram.com/s0machatterjee">
-    <img src="https://img.shields.io/badge/Instagram-00F5FF?style=for-the-badge&logo=instagram&logoColor=black"/>
-  </a>
-</p>
+## Contact
 
----
+LinkedIn:  
+https://www.linkedin.com/in/soma-chatterjee-5a31662a6  
 
-# 🧬 ENGINEERING PHILOSOPHY
+Mail:  
+somac1231@gmail.com  
 
-```
-Security is not an add-on.
-It is an architectural decision.
-AI is not automation.
-It is intelligence augmentation.
-```
+Mobile No:  
+8250579546  
 
-Discipline from 🥋 Karate  
-Precision in 🔐 Cybersecurity  
-Innovation in 🤖 Artificial Intelligence  
+Instagram:  
+https://www.instagram.com/s0machatterjee  
+
+Open to:
+- Cybersecurity Engineering Roles  
+- Secure Backend Development  
+- Research & Security Innovation  
+- Product Security Teams  
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:001F2F&height=120&section=footer"/>
+  <sub>Building secure systems. Engineering with intent. Designing with resilience.</sub>
 </p>
