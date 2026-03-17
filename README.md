@@ -136,9 +136,6 @@ https://www.linkedin.com/in/soma-chatterjee-5a31662a6
 Mail:  
 somac1231@gmail.com  
 
-Mobile No:  
-8250579546  
-
 Instagram:  
 https://www.instagram.com/s0machatterjee  
 
